@@ -1,0 +1,10 @@
+{
+  "name": "base-referral-contract",
+  "version": "0.1.0",
+  "description": "Universal referral system for dApps building on Base",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
